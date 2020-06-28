@@ -1,0 +1,48 @@
+nav {
+    margin-bottom: 10px;
+}
+
+.bg-light {
+    background-color: #9e61ff !important;
+}
+
+.btn-outline-success {
+    color: #ffffff !important;
+    border-color: white;
+}
+.btn-outline-success:hover {
+    background-color: #721bff;
+    border-color: white;
+    color: #000000;
+}
+
+.jumbotron {
+    margin: 20px auto;
+    width: 90%;
+    background-color: #9e61ff;
+}
+
+.center {
+    margin: 10px auto;
+    width: 80%;
+}
+
+.pad {
+  padding: 20px;
+}
+
+.border1 {
+    border: 10px solid #9e61ff;
+}
+
+.col {
+    padding: auto;
+    text-align: center;
+
+}
+
+.bor2 {
+    border: 5px solid #9e61ff;
+    margin: auto;
+
+}
